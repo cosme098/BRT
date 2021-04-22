@@ -824,4 +824,4 @@ if(alarmesonoro == 1) {
 //////////pinos de ligação de  de sensor de corrente///////////
                       //A0,A1,A2,A3,D3, D5, pino D2 para medição da frequencia //
 //sendo que nao pode usar  o pino d5 pois ele foi destinado a ler a frequencia///                      
-//fiz um teste
+//fiz um teste aa
